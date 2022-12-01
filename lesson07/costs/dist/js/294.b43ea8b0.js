@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcosts"]=self["webpackChunkcosts"]||[]).push([[294],{1294:function(s,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=function(){var s=this;s._self._c;return s._m(0)},e=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"page404"},[t("h1",[s._v("Page404")])])}],c=n(1001),l={},r=(0,c.Z)(l,u,e,!1,null,null,null),a=r.exports}}]);
+//# sourceMappingURL=294.b43ea8b0.js.map
